@@ -1,0 +1,11 @@
+# Anaconda
+anaconda_projects
+Pandas/anaconda_projects
+Numpy/anaconda_projects
+
+# Jupyter Notebook Checkpoints
+Pandas/.ipynb_checkpoints/
+Numpy/.ipynb_checkpoints/
+
+# Python Cache
+Python/__pycache__/
